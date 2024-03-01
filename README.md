@@ -30,3 +30,17 @@
    Express the gradients in terms of known quantities such as activations, weights, and input values.
    
 These steps are crucial for understanding how the gradients of the error function with respect to the weights are calculated, which is essential for updating the weights during the training process using optimization algorithms like gradient descent.
+
+# Learning rate: Error graph for the learning rate changes from [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
+![Loss = 0 1](https://github.com/harikishanm96/S6---Assignment/assets/53985105/6e6a4388-67af-4274-ab63-acf67c56e092)
+![Loss = 0 2](https://github.com/harikishanm96/S6---Assignment/assets/53985105/3113fce6-afb0-4b54-bc73-c0c5aa42f302)
+![Loss = 0 5](https://github.com/harikishanm96/S6---Assignment/assets/53985105/700b71ed-d884-4659-a98d-baac7c3c1a7b)
+![Loss = 0 8](https://github.com/harikishanm96/S6---Assignment/assets/53985105/f61892ff-d50e-4327-b90c-7dd730839dbc)
+![Loss = 1 0](https://github.com/harikishanm96/S6---Assignment/assets/53985105/a3c11f47-3144-41dc-936d-f5092796d513)
+![Loss = 2 0](https://github.com/harikishanm96/S6---Assignment/assets/53985105/f445d772-6ab4-43d0-b720-2b7756c036f8)
+
+
+
+
+
+
