@@ -57,7 +57,7 @@ SGD optimizer with lr=0.08, momentum=0.9 is used.
 
 20 epochs for training of the network.
 
-Final validation accuracy is 99.37%
+Final validation accuracy is 99.43%
 
 
 
